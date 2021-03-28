@@ -4,7 +4,7 @@
   "description": "me, Sérgio Kopplin",
   "main": "./info.json",
   "bin": {
-    "fdaciuk": "./kopplin.js"
+    "kopplin": "./kopplin.js"
   },
   "keywords": [
     "person",

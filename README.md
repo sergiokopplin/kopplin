@@ -1,6 +1,6 @@
 # Sérgio Kopplin
 
-![](https://raw.githubusercontent.com/fdaciuk/fdaciuk/master/fdaciuk.gif)
+![](https://raw.githubusercontent.com/sergiokopplin/kopplin/maun/kopplin.gif)
 
 ```console
 npx kopplin
