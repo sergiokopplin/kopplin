@@ -1,6 +1,6 @@
 # Sérgio Kopplin
 
-![](https://raw.githubusercontent.com/sergiokopplin/kopplin/maun/kopplin.gif)
+![](https://raw.githubusercontent.com/sergiokopplin/kopplin/main/kopplin.gif)
 
 ```console
 npx kopplin
