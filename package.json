@@ -1,0 +1,23 @@
+{
+  "name": "@kopplin/me",
+  "version": "1.0.0",
+  "description": "me, Sérgio Kopplin",
+  "main": "./info.json",
+  "bin": {
+    "fdaciuk": "./kopplin.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Sérgio Kopplin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiokopplin/kopplin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergiokopplin/kopplin/issues"
+  },
+  "homepage": "https://github.com/sergiokopplin/kopplin#readme"
+}
