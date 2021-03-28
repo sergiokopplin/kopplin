@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/sergiokopplin/kopplin/issues"
   },
-  "homepage": "https://github.com/sergiokopplin/kopplin#readme"
+  "homepage": "https://github.com/sergiokopplin/kopplin#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^12.0.1",
+    "@kopplin/commitlint-config": "^1.0.0",
+    "husky": "^5.2.0"
+  }
 }
